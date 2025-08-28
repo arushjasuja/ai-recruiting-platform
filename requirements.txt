@@ -7,3 +7,4 @@ sentence-transformers
 plotly
 scikit-learn
 PyPDF2
+pysqlite3-binary
