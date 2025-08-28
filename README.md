@@ -2,6 +2,8 @@
 
 Automates market research, job description generation, and candidate matching for small recruiting teams.
 
+# Live demo: https://ai-recruiting-platform.streamlit.app/ (requires OpenAI API key)
+
 ## Problem It Solves
 
 Manual recruiting research is time-intensive and leads to poor outcomes:
